@@ -15,5 +15,5 @@
   <br/><br/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Firebase+Fan;SQL+Fan;Python+Backend;Engenharia+Informática;Apaixonado+por+tecnologia"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Firebase+Fan;Python+and+SQL+Backend;Software+Engineer;"/>
 </div>
