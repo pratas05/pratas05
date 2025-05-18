@@ -1,7 +1,5 @@
 ## I'm André 👋
 
-## 📊 GitHub Stats
-
 <div align="center">
   <!-- Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=pratas05&show_icons=true&theme=github_dark&custom_title=André's%20Stats" height="180"/>
