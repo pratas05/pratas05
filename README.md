@@ -3,8 +3,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratas05&show_icons=true&theme=transparent&custom_title=André's%20Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratas05&layout=compact&langs_count=6"/>
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pratas05&show_icons=true&theme=github_dark&custom_title=André's%20Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratas05&layout=compact&langs_count=8&theme=github_dark" height="180"/>
+  
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=pratas05&theme=transparent"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratas05&theme=github-compact"/>
@@ -12,5 +14,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Firebase+&+SQL+Fan;Python+Backend;Engenharia+Informática;Apaixonado+por+tecnologia"/>
 </div>
-<!-- Snake animation -->
-![GitHub Snake](https://github.com/pratas05/pratas05/blob/output/github-contribution-grid-snake.svg)
