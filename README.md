@@ -3,7 +3,7 @@
 <div align="center">
   <!-- Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=pratas05&show_icons=true&theme=github_dark&custom_title=André's%20Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratas05&layout=compact&langs_count=8&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratas05&layout=compact&langs_count=6&theme=github_dark" height="180"/>
   
   <br/><br/>
   
