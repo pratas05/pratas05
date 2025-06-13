@@ -41,7 +41,8 @@ def __init__(self):
 ## 🛠 Habilidades Técnicas
 
 - **Mobile Development**: Flutter (Dart)
-- **Backend**: Python, Node.js, SQL
+- **Web Development**: JavaScript, HTML 5, CSS, BootStrap 
+- **Backend**: Python, Flask, SQL
 - **Firebase**: Firestore, Auth, Functions, Cloud Messaging
 
 <!--
