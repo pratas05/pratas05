@@ -15,7 +15,7 @@ def __init__(self):
     self.skills = {
         'mobile': "Flutter Development",
         'backend': "Python, Flask & SQL",
-        'database': "Firebase Expert"
+        'database': "Firebase, PostgreSQL"
     }
 ```
 
