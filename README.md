@@ -44,10 +44,12 @@ def __init__(self):
 - **Backend**: Python, Node.js, SQL
 - **Firebase**: Firestore, Auth, Functions, Cloud Messaging
 
-// ## 🌍 Conecte-se comigo
+<!--
+## 🌍 Conecte-se comigo
 
-// [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-// [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
-// [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seu-perfil)
+-->
 
 ![Profile views](https://komarev.com/ghpvc/?username=pratas05&label=Profile%20views&color=0e75b6&style=flat)
