@@ -8,15 +8,17 @@ from github import readme
 class Developer(readme):
     "/pratas05/pratas05/README.md"
 
-def __init__(self):
-    self.full_name = "André Pratas"
-    self.username = "pratas05"
-    self.occupation = "Software Engineer"
-    self.skills = {
-        'mobile': "Flutter Development",
-        'backend': "Python, Flask & SQL",
-        'database': "Firebase, PostgreSQL"
-    }
+    def __init__(self):
+        self.full_name = "André Pratas"
+        self.username = "pratas05"
+        self.occupation = "Software Engineer"
+        self.website = "https://andre-pratas-portefolio.vercel.app/"
+        self.skills = {
+            'mobile': "Flutter Development",
+            'backend': "Python, Flask & SQL",
+            'database': "Firebase, PostgreSQL"
+        }
+
 ```
 
 <div align="center">
