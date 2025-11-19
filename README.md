@@ -19,6 +19,28 @@ class Developer(readme):
             'database': "Firebase, PostgreSQL"
         }
 
+    def website_markdown(self):
+        return f"[Website Pessoal]({self.website})"
+
+    def generate_readme(self):
+        return f"""
+# 👋 Olá, eu sou o {self.full_name}
+
+### 💼 Ocupação
+{self.occupation}
+
+### 🌐 Website
+👉 {self.website_markdown()}
+
+### 🛠️ Skills
+- **Mobile:** {self.skills['mobile']}
+- **Backend:** {self.skills['backend']}
+- **Database:** {self.skills['database']}
+
+---
+_Gerado automaticamente pela classe Developer._
+"""
+
 ```
 
 <div align="center">
